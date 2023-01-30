@@ -73,6 +73,5 @@ You acknowledge and agree that there may be a delay in the display of automatic 
 - [x] 8.3 Any failure to exercise, failure to timely exercise, or failure to fully exercise the rights of `RandomLife App` under this Agreement or under the law shall not be deemed a waiver of such rights, nor shall it affect the future exercise of such rights by `RandomLife App`. Translated with www.DeepL.com/Translator (free version).
 - [x] 8.4 If you have any questions about the content of these Terms, please send an email to our customer service email address: (18767529430@163.com).
 - [x] 8.5 ***This Agreement may include multiple language versions, in case of any disagreement, all contents of the Chinese version shall prevail. ***
-
                                                                                                                                 <br><br>***RandomLife App***
                                                                                                                                 <br>***January 29, 2023***<br/>
