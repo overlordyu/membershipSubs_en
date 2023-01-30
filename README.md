@@ -1,20 +1,20 @@
 ## `RandomLife App` Membership Subscription Terms of Service Agreement
 ***Important Notice**
 > Welcome to use `RandomLife App` membership service (hereinafter referred to as `paying membership`). To protect your rights and interests, please read this service agreement (hereinafter referred to as `this agreement`) in detail, especially the bolded parts, before using the paid membership service. Minors should be accompanied by a legal guardian. You are not authorized to use the Paid Membership Service unless you have read and accepted all of the terms of this Agreement. Your purchase and/or use of the Paid Membership Service shall be deemed that you have read and agreed to be bound by this Agreement.
-### Article I. Acceptance and Amendment of Service Agreement
+### 1 Acceptance and Amendment of Service Agreement
 - [x] 1.1 *** This Agreement consists of the body of the Agreement and the various rules that have been published or may be published/updated in the future by `RandomLife App`. All rules are an integral part of this Agreement and have the same legal effect as the main text of this Agreement. In case of conflict between the main text of this Agreement and the aforementioned rules, the main text of this Agreement shall prevail. Unless otherwise expressly stated, your use of the Paid Membership Service is governed by this Agreement. ***
 - [x] 1.2 *** This Agreement and the related Terms of Service will be posted on the relevant page in the application if they are revised due to business development. You may go to the latest version of the Terms of Agreement. After `RandomLife App` modifies the above terms, if you do not accept the modified terms, you may choose to terminate your use of the paid membership service. If you continue to use the service, you will be deemed to have accepted the revised agreement. ***
-### Article II Definitions
+### 2 Definitions
 - [x] 2.1 **Paid Membership**: refers to the network value-added service provided by `RandomLife App` for you, and you can enjoy certain special or advanced privileges according to this agreement after becoming a paid member, and the specific contents of the service shall be subject to what `RandomLife App` provides. The ownership and operation of the paid membership, as well as the development of the paid membership system and activities shall belong to `RandomLife App`, and `RandomLife App` shall have the right of interpretation within the scope of the law.
 - [x] 2.2 "User" or "You": means the **individual or single entity** who enjoys the paid membership services provided by `RandomLife App`.
-### Article 3 Procedure for Becoming a Paid Member
+### 3 Procedure for Becoming a Paid Member
 - [x] 3.1 If you wish to use the paid membership service, you must first download and open the "Setting" screen of the `RandomLife App` and apply for the paid membership service.
 - [x] 3.2 You can activate the paid membership service by completing the payment through the payment method approved by `RandomLife App` in the setting screen. You should check the specific information of the service type and length carefully when you activate the service. If the loss is caused by your personal reasons, `RandomLife App` will not refund the charged fees.
-### Article 4: Provisions on Paid Membership
+### 4 Provisions on Paid Membership
 - [x] 4.1 The use of the paid membership service is limited to the user's personal Apple account and cannot be used for other Apple accounts.
 - [x] 4.2 If you voluntarily cancel or terminate the paid membership during the validity period of the opened paid membership, you will not receive a refund of the paid membership fee.
 - [x] 4.3 After the cancellation/termination of the paid membership, you will no longer enjoy the paid membership services.
-### Article 5 Charges and Unsubscription
+### 5 Charges and Unsubscription
 - [x] 5.1 **How to Charge**
 The `RandomLife App` membership service is a paid service, and you can complete the payment of membership fees through the payment methods actually supported by the `RandomLife App`, such as bank card payment, third party payment, etc. Please note that if you use your Apple account or the communication account tied to your membership account to make payment, this payment method is a payment method for collection on behalf of the charging operator, and there may be certain business risks for you to pay through this payment method (such as unscrupulous elements using your account or valuable cards such as bank cards to carry out illegal activities), such risks may cause you corresponding financial losses, and you shall bear You are responsible for all losses.
 - [x] 5.2 **Refund of Fees**
@@ -37,7 +37,7 @@ The `RandomLife App` membership service is a paid service, and you can complete 
 - [x] 5.4.3 **Cancellation methods**.
 > Apple mobile device side: Apple mobile device `APP Store` --> Click on the Apple account avatar in the upper right corner, go to `Account` --> `Subscription` and select `RandomLife` to cancel the subscription.
 You acknowledge and agree that there may be a delay in the display of automatic renewal status updates, depending on your renewal status displayed in the `RandomLife App`. You also agree that the deduction instruction you have entrusted to `RandomLife App` for auto-renewal before successful cancellation is still valid, and `RandomLife App` will not refund or compensate for the fees deducted based on such instruction before the cancellation operation is completed.
-### Article 6 Rules for Paid Member Use
+### 6 Rules for Paid Member Use
 - [x] 6.1 **You acknowledge** that you are a natural person, legal person or other organization with full civil rights capacity and full civil conduct capacity, and are capable of taking independent responsibility for all your acts of using the paid membership service. If you do not have the aforementioned qualifications, `RandomLife App` shall have the right to recover from your guardian or other responsible parties if you are held liable according to the legal provisions or the agreement of this Agreement. If you are a natural person, you shall provide `RandomLife App` with your real name, address, email address, contact number and other information; if you are a legal person or other organization, you shall provide your name, address, contact person and other information.
 - [x] 6.2 **You shall keep the relevant account and password in a safe place** and be responsible for all activities and actions performed by the account, and are prohibited from giving, borrowing, renting, transferring or selling the account. You are solely responsible for the safekeeping, use and maintenance of your account, account information and account password obtained through the `RandomLife App` application. `RandomLife App` shall not be liable for any loss or damage caused by the disclosure of your account password or the improper storage, use or maintenance of your account, if not caused by `RandomLife App`.
 - [x] 6.3 If you do any of the following, `RandomLife App` has the full right to terminate the provision of the Paid Membership Service without notice to you and to restrict, freeze or terminate the use of the account associated with the Service. `RandomLife App` is not required to give any compensation or refund, and the responsibility arising therefrom shall be borne by you independently. You are responsible for full compensation for any damage caused to `RandomLife App` or third parties as a result.
@@ -62,16 +62,17 @@ You acknowledge and agree that there may be a delay in the display of automatic 
  - (6) You use the `RandomLife App` for any illegal acts.
  ```
 
-### Article 7 Disclaimer of Liability
+### 7 Disclaimer of Liability
 - [x] 7.1 If you exercise your rights under this Agreement and purchase/accept goods or services provided by a third party merchant other than `RandomLife App`, and if a dispute arises as a result, you shall assert your rights against the third party merchant who sold/provided such goods or services, independent of `RandomLife App`.
 - [x] 7.2 You are solely responsible for all actions performed by yourself and your invited guests while participating in the activities organized by `RandomLife App` or using the offers and value-added services provided by `RandomLife App`.
 - [x] 7.3 `RandomLife App` shall not be liable for your losses caused by the acts or omissions of third parties, losses caused by force majeure, including but not limited to payment services, network access services, communication line failures of telecommunication authorities, technical problems in communication, network, computer failures, system instability, infringement by any third party, etc.
 - [x] 7.4 You understand and agree that in the process of using the paid membership service, you may encounter force majeure and other risk factors that may cause interruption of such service. In the event of such a situation, `RandomLife App` promises to cooperate with the relevant units to repair the service as soon as possible, but will not bear any losses caused to you and will not refund the paid membership fee.
-### Article 8 Other Agreements
+### 8 Other Agreements
 - [x] 8.1 **Service Suspension, Interruption and Termination**: `RandomLife App` may choose to suspend, interrupt and terminate the paid membership service based on its own business decisions, governmental actions, force majeure, etc. In such cases, `RandomLife App` may choose to suspend, interrupt and terminate the paid membership service. In such cases, `RandomLife App` will notify you by way of announcement, but will not be liable for any damages caused to you and will not refund paid membership fees.
 - [x] 8.2 **Legal and Dispute Resolution**: This Agreement is governed by the laws of the People's Republic of China and excludes the application of all conflict of laws provisions.
 - [x] 8.3 Any failure to exercise, failure to timely exercise, or failure to fully exercise the rights of `RandomLife App` under this Agreement or under the law shall not be deemed a waiver of such rights, nor shall it affect the future exercise of such rights by `RandomLife App`. Translated with www.DeepL.com/Translator (free version).
 - [x] 8.4 If you have any questions about the content of these Terms, please send an email to our customer service email address: (18767529430@163.com).
 - [x] 8.5 ***This Agreement may include multiple language versions, in case of any disagreement, all contents of the Chinese version shall prevail. ***
+
                                                                                                                                 <br><br>***RandomLife App***
                                                                                                                                 <br>***January 29, 2023***<br/>
